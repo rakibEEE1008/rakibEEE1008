@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rakibEEE1008
-- 👀 I’m interested in IoT
+- 👋 Hi, I’m Rakibul Hasan
+- 👀 I’m not interested in IoT
 - 🌱 I’m currently learning basic arduino 
 - 💞️ I’m looking to collaborate on IEEE
 - 📫 How to reach me : +8801876701961
